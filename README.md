@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on An Android App ( A Whatsapp Clone )
+- 🔭 I’m currently working on **solving DSA problems**
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on variety of Open Source Projects
 - 💬 Ask me about technology
