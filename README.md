@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on **solving DSA problems on Leetcode, Geeksforgeeks** & **[ My Open Source Project - Conversion Lamp ](https://github.com/pushpendrahpx/conversion-lamp)**
+- 🔭 I’m currently working on **Building UI Components, solving DSA problems on Leetcode, Geeksforgeeks**
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on variety of Open Source Projects
 - 💬 Ask me about technology
