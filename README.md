@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Pushpendra
 
-
-Here are some ideas to get you started:
 - 🔭 I’m currently working on **Building UI Components, solving DSA problems on Leetcode, Geeksforgeeks**
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on variety of Open Source Projects
